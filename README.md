@@ -20,9 +20,10 @@
 ---
 
 ## 🏆 Competitive Programming
-- [Codeforces](https://codeforces.com/profile/YourHandle)
-- [LeetCode](https://leetcode.com/YourHandle)
-- [USACO Guide](https://usaco.guide)
+- [Codeforces](https://codeforces.com/profile/Sajith_J)
+- [LeetCode](https://leetcode.com/u/Sajith786/)
+- [USACO Guide](https://usaco.guide/settings#profile)
+- [Atcoder](https://atcoder.jp/users/DRY_RUN_DEMON)
 
 ---
 
