@@ -1,7 +1,7 @@
 
 
 # Mohamed Hameem Sajith J🚀
-### AIML | Cybersecurity | Full Stack | Competitive Programming
+### AIML |Competitive Programming
 
 💻 Passionate about solving problems and building scalable solutions  
 🏆 Active in Competitive Programming (Codeforces, LeetCode, USACO Guide)  
